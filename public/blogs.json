@@ -1,0 +1,53 @@
+[
+    { 
+      "id": 1,
+      "cover": "https://plus.unsplash.com/premium_photo-1663040543387-cb7c78c4f012?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Mastering JavaScript",
+      "author": "Milf Doe",
+      "author_img": "https://media.istockphoto.com/id/1778126824/photo/portrait-of-positive-successful-person-toothy-smile-hold-clipboard-documents-pen-isolated-on.jpg?s=2048x2048&w=is&k=20&c=ihBW-Ullu1c4kkwELP5VudExjfDX1r3Q3vHWUumGL3w=",
+      "posted_date": "2024-10-01",
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"],
+      "reading_time": 5
+    },
+    {
+      "id": 2,
+      "cover": "https://plus.unsplash.com/premium_photo-1723849222657-e1e48a0a306e?q=80&w=1121&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "CSS Tips for Responsive Design",
+      "author": "Jane Smith",
+      "author_img": "https://media.istockphoto.com/id/1217803247/photo/turned-photo-of-cheerful-smart-successful-assistant-girl-write-applicants-information-in.jpg?s=2048x2048&w=is&k=20&c=zT7JQHkRK5LL121N56siBUFXRxBjpxuWvfuDE14_mfo=",
+      "posted_date": "2024-10-15",
+      "hashtags": ["#CSS", "#Responsive", "#Design"],
+      "reading_time": 8
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1488229297570-58520851e868?q=80&w=869&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Understanding React Hooks",
+      "author": "Michael Lee",
+      "author_img": "https://media.istockphoto.com/id/903445926/photo/cheerful-young-woman-organizer-gray-wall.jpg?s=612x612&w=is&k=20&c=tp7ViNF6k6LHtxXzDb2MSrg0tzJ1fiyerCnmrC429mQ=",
+      "posted_date": "2024-10-20",
+      "hashtags": ["#React", "#JavaScript", "#Hooks"],
+      "reading_time": 10
+    },
+    {
+      "id": 4,
+      "cover": "https://plus.unsplash.com/premium_photo-1676150789916-2c7d1fdda6b9?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Intro to TypeScript",
+      "author": "Sara Johnson",
+      "author_img": "https://media.istockphoto.com/id/1435649683/photo/portrait-of-a-businesswoman-with-a-pen-and-clipboard-in-her-hands-who-writes-on-a-gray.jpg?s=612x612&w=is&k=20&c=CY3zhYwIqmy3Ic7HvE6l1lrmBA6tyXuwDq19ut9PXIg=",
+      "posted_date": "2024-10-22",
+      "hashtags": ["#TypeScript", "#JavaScript", "#Coding"],
+      "reading_time": 7 
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Exploring Firebase for Web Apps",
+      "author": "Alex Martinez",
+      "author_img": "https://media.istockphoto.com/id/914381892/photo/positive-young-european-female-engineer-touching-lips-with-pen.jpg?s=612x612&w=is&k=20&c=atIQT5losYcU4jVdJ3Emwa-mmLivamL310DDYU3A0sc=",
+      "posted_date": "2024-11-01",
+      "hashtags": ["#Firebase", "#WebDevelopment", "#Database"],
+      "reading_time": 6
+    }
+  ]
+  
